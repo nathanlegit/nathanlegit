@@ -1,4 +1,4 @@
-### Nathan Chan
+![Nathan Chan](./banner.svg)
 
 **👋 About Me**
 
