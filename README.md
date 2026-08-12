@@ -1,4 +1,4 @@
-![Nathan Chan](./banner.svg)
+![Nathan Chan](./banner-animated-real.png)
 
 **👋 About Me**
 
