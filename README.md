@@ -3,7 +3,7 @@
 **👋 About Me**
 
 - CS @ University College London (2026 - 2029)
-- Co-founder and CTO of IMPACTNET, shipping civic tech in Singapore
+- Co-founder and CTO of impactnet, shipping civic tech in Singapore
 - Curious about anything AI, especially how to implement systems safely, not only effectively
 - Outside of building: songwriting, padel, mostly just hanging out with cool people
 - Working toward product management in responsible AI
