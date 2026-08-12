@@ -2,21 +2,20 @@
 
 **👋 About Me**
 
-- CS @ UCL, starting September 2026
+- CS @ University College London (2026 - 2029)
 - Co-founder and CTO of IMPACTNET, shipping civic tech in Singapore
-- Previously AI engineering intern @ Citadel Search, built four internal AI tools as the sole technical intern
-- Currently curious about anything AI, specifically how to implement frontier-level AI systems safely rather than just capably
-- Outside of building: songwriting, padel, and generally just hanging out with people
+- Curious about anything AI, especially how to implement systems safely, not only effectively
+- Outside of building: songwriting, padel, mostly just hanging out with cool people
 - Working toward product management in responsible AI
 
 **🚧 Currently building**
 
-A governance RAG evaluation harness over public AI policy documents (NIST AI RMF, EU AI Act). The actual work is the evaluation layer on top: tracing, a citation-verification scorer, an LLM-judge validated against a hand-labelled sample, and a CI regression gate. Shipping mid-September, ahead of starting at UCL.
+A governance RAG evaluation harness over public AI policy documents (NIST AI RMF, EU AI Act). Focused on the evaluation layer on top: tracing, a citation-verification scorer, an LLM-judge validated against a hand-labelled sample and a CI regression gate.
 
 **📦 Also here**
 
-- [`M.E.A.A`](https://github.com/nathanlegit/M.E.A.A-Military-Environment-Analysis-Algorithm) — terrain classification + AI-generated strategy tool, built for the DSTA Young Defence Scientist Programme, first runner-up
-- [`neetcode-submissions`](https://github.com/nathanlegit/neetcode-submissions) — working through NeetCode 150 systematically
+- [`M.E.A.A`](https://github.com/nathanlegit/M.E.A.A-Military-Environment-Analysis-Algorithm) — terrain classification + AI-generated strategy tool, built for the DSTA Young Defence Scientist Programme (first runner-up)
+- [`neetcode-submissions`](https://github.com/nathanlegit/neetcode-submissions) — my NeetCode 150 attempts
 
 **🛠️ Stack**
 
@@ -27,10 +26,10 @@ A governance RAG evaluation harness over public AI policy documents (NIST AI RMF
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square)
 
-**✍️ Writing**
+**✍️ Random Thoughts**
 
-I write about IMPACTNET's build process and AI/product topics on Medium. [Link here once I know your Medium URL]
+Occasionally penning down my thoughts on the AI world on Medium: My CS journey, opinions on AI product, and an inside perspective on AI governance
 
-**📬 Open to**
+**📬 Happy to connect!**
 
-Chatting, collaborating on open source, or just talking through anything AI or product. Reach me on [LinkedIn](https://www.linkedin.com/in/nathan-chan-9a50a8285/), GitHub, or email.
+Please reach out if you would like to collaborate on open source or talk through anything AI or product. Reach me on [LinkedIn](https://www.linkedin.com/in/nathan-chan-9a50a8285/), GitHub, or email.
