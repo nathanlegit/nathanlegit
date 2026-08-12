@@ -14,7 +14,6 @@ A governance RAG evaluation harness over public AI policy documents (NIST AI RMF
 
 **📦 Also here**
 
-- [`M.E.A.A`](https://github.com/nathanlegit/M.E.A.A-Military-Environment-Analysis-Algorithm) — terrain classification + AI-generated strategy tool, built for the DSTA Young Defence Scientist Programme (first runner-up)
 - [`neetcode-submissions`](https://github.com/nathanlegit/neetcode-submissions) — my NeetCode 150 attempts
 
 **🛠️ Stack**
