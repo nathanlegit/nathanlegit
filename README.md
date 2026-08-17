@@ -3,16 +3,16 @@
 **👋 About Me**
 
 - CS @ University College London (2026 - 2029)
-- Co-founder and CTO of impactnet, shipping civic tech in Singapore
+- Co-founder and CTO of impactnet, focused on shipping civic tech in Singapore
 - Curious about anything AI, especially how to implement systems safely, not only effectively
-- Outside of building: songwriting, padel, mostly just hanging out with cool people
+- Outside of building: songwriting, padel, and mostly just hanging out with cool people
 - Working toward product management in responsible AI
 
 **🚧 Currently building**
 
-A governance RAG evaluation harness over public AI policy documents (NIST AI RMF, EU AI Act). Focused on the evaluation layer on top: tracing, a citation-verification scorer, an LLM-judge validated against a hand-labelled sample and a CI regression gate.
+Sourcecheck, a governance RAG evaluation harness over public AI policy documents (NIST AI RMF, EU AI Act). 
 
-**📦 Also here**
+**📦 Other Repos**
 
 - [`neetcode-submissions`](https://github.com/nathanlegit/neetcode-submissions) — my NeetCode 150 attempts
 
@@ -27,8 +27,8 @@ A governance RAG evaluation harness over public AI policy documents (NIST AI RMF
 
 **✍️ Random Thoughts**
 
-Occasionally penning down my thoughts on the AI world on Medium: My CS journey, opinions on AI product, and an inside perspective on AI governance
+I occasionally pen down my thoughts on the AI world on Medium: My CS journey, opinions on AI product, and an inside perspective on AI governance
 
 **📬 Happy to connect!**
 
-Please reach out if you would like to collaborate on open source or talk through anything AI or product. Reach me on [LinkedIn](https://www.linkedin.com/in/nathan-chan-9a50a8285/), GitHub, or email.
+Please reach out if you would like to collaborate on open source or talk through anything AI or product. Reach me on [LinkedIn](https://www.linkedin.com/in/nathan-chan-9a50a8285/), GitHub, or [Email](nathanchan124@gmail.com).
