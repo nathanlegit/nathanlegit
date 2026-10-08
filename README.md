@@ -14,6 +14,7 @@ Sourcecheck, a governance RAG evaluation harness over public AI policy documents
 
 **📦 Other Repos**
 
+- [`pathfinder`](https://github.com/nathanlegit/pathfinder) — An personalise internship/spring week sourcing application built for the TinyFish Build Night on 5 Oct 2026
 - [`neetcode-submissions`](https://github.com/nathanlegit/neetcode-submissions) — my NeetCode 150 attempts
 
 **🛠️ Stack**
