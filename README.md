@@ -14,6 +14,7 @@ Sourcecheck, a governance RAG evaluation harness over public AI policy documents
 
 **📦 Other Repos**
 
+- [`LectureLens`](https://github.com/nathanlegit/LectureLens) — A study tool that turns recorded lectures in cited, quizzable summaries and notes by reading what is on the screen and not just a transcript, built for the UCL Claude Hackathon on 16 Oct 2026
 - [`pathfinder`](https://github.com/nathanlegit/pathfinder) — A personalised internship/spring week sourcing application built for the TinyFish Build Night on 5 Oct 2026
 - [`neetcode-submissions`](https://github.com/nathanlegit/neetcode-submissions) — my NeetCode 150 attempts
 
